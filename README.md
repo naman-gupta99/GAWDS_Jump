@@ -1,2 +1,2 @@
-# naman-gupta99.github.io
-GAME hosting
+# GAWDS-Game
+Mario-style game made using Quintus HTML5
